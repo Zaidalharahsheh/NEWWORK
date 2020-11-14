@@ -1,5 +1,7 @@
 body{
 background-image: url(./light-live-background-css.jpg);
+
+
 }
 nav{
    
@@ -17,9 +19,12 @@ img
 }
 .Zaid{
     background-color: white;
-    margin-top: 40px;
+    margin-top: 80px;
     width: 800px;
-    margin-left: 60px;
+    margin-left: 80px;
+  line-height: 1;
+padding-right: 80px;
+
    
 }
 h2 {
@@ -49,4 +54,21 @@ h1{
     p3{   color: white;
 
     }
- 
+.cont{
+       background-color: white;
+    margin-top: 40px;
+    width: 700px;
+    margin-right: 60px;
+   
+}
+.port {
+    background-color: white;
+    margin-bottom: 200px;
+   margin-top:60px; ;
+width: 660px;
+    margin-left: 80px;
+  line-height: 1;
+padding-right: 80px;
+
+   
+}
