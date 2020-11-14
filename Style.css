@@ -1,0 +1,52 @@
+body{
+background-image: url(./light-live-background-css.jpg);
+}
+nav{
+   
+    float: right;
+ 
+   
+}
+.last{
+    
+}
+img
+{
+    height: 200px;
+    width: 200px;
+}
+.Zaid{
+    background-color: white;
+    margin-top: 40px;
+    width: 800px;
+    margin-left: 60px;
+   
+}
+h2 {
+    float: left;
+    margin-left: -8px;
+    color: green;
+ 
+}
+.row
+{
+    border: thick;
+}
+h1{
+    color: green;
+}
+    .footer {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        padding-top: 10px;
+        background-color: darkgrey;
+     
+        text-align: center;
+    border-top: solid;color: chartreuse;   
+    }
+    p3{   color: white;
+
+    }
+ 
